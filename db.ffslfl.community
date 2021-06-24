@@ -1,0 +1,16 @@
+$TTL 3600
+
+ffslfl.community.         3600 IN SOA    dnsprim.ffslfl.community. schleswig-flensburg.freifunk.net. 2021053101 3600 1800 604800 600
+
+@                           IN NS     icvpn.ffslfl.community.
+@                           IN NS     dnsprim.ffslfl.community.
+
+; .extern zone
+
+; root zone
+@                           IN A      65.21.116.74
+; TODO fix v6
+;@                           IN AAAA   
+
+; dns
+dnsprim                     IN A      65.21.116.74
