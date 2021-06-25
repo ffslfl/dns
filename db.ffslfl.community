@@ -7,7 +7,4 @@ $TTL 3600
 			604800		; expire
 			600 )		; minimum
 
-extern		IN NS	dns.herpf.fff.community.
 @		IN NS	dnsprim.ffslfl.community.
-@		IN A	65.21.116.74
-dnsprim		IN A	65.21.116.74
