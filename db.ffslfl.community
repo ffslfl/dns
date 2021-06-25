@@ -7,12 +7,8 @@ $TTL 3600
 			604800		; expire
 			600 )		; minimum
 
-@                           IN NS     dnsprim.ffslfl.community.
+@		IN NS     dnsprim.ffslfl.community.
 
-; .extern zone
+@		IN A      65.21.116.74
 
-; root zone
-@                           IN A      65.21.116.74
-
-; dns
-dnsprim                     IN A      65.21.116.74
+dnsprim		IN A      65.21.116.74
