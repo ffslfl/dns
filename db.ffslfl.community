@@ -7,4 +7,4 @@ $TTL 3600
 			604800		; expire
 			600 )		; minimum
 
-@		IN NS	dnsprim.ffslfl.community.
+@				IN NS	dnsprim.ffslfl.community.
