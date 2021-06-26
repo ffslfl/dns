@@ -1,6 +1,6 @@
 $TTL 3600
 
-@	IN SOA		dnsprim.ffslfl.community. schleswig-flensburg.freifunk.net. (
+@	IN SOA		dnsprim.ffslfl.community. info.schleswig-flensburg.freifunk.net. (
 			2021062605	; serial
 			3600		; refresh
 			1800		; retry
